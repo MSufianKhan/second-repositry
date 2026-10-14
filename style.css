@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.heading{
+    font-size: 25px;
+    background-color:yellow;
+    color: black;
+}
+button{
+    padding:10px ;
+    font-size: 15px;
+    border: 1px solid green;
+}
+.num{
+    color: white;
+    font-size: 15px;
+}
